@@ -16,7 +16,7 @@ p {
   font-family: Arial
 }
 div{
-  backgroung-color: blue;
+  background-color: blue;
   text-align: right;
 }
 th, td {
@@ -26,4 +26,3 @@ th, td {
   font-family: Arial
  }
  tr:nth-child(odd) {background-color: #f2f2f2;}
-
